@@ -9,7 +9,6 @@ function invert(array) {
             newArray.push(-array[i]);
         }
     }
-
     return newArray;
 }
 
